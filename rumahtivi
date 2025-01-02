@@ -624,6 +624,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 >>>>>>>>>>>>>>>>  INDONESIA TV (Server 2) 🇮🇩  <<<<<<<<<<<<<
 ###########################################################
 https://raw.githubusercontent.com/hud4156/mytv/main/indovision.m3u
+raw.githubusercontent.com/hud4156/mytv/refs/heads/main/indovision.m3u
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 https://raw.githubusercontent.com/boimalik/indihome/refs/heads/main/Vision%2B
@@ -1793,9 +1794,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 ####################################################
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN3yxdAFkdnRGZNSnLBSpN-YM9Pn7zHTfMiSKZAKC4DPWj4L-oAleudmcoVWhnuffjWzVgpWVnL1abAtb929E80SMaFu1CgDZwdr3a6V8eq3c424ytmcMzL7vcZ2axCL6KGI_RX0jare3m5RS24Fki7t4KiojRX5GbKJGgrilcX1HSCIwmiWAfo3UhfE/s1072/Home_credit_logo_640px_waifu2x_art_noise2_scale.png",VENDOR HOME KREDIT TV
 
-#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
-#https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
-
 
 
 ################################################
@@ -1808,20 +1806,12 @@ TRANSVISION
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBbqb8eLqaKmLN8qGGwJxMkbF8-iJ-eXInLl6JzLxXM7kEP6icp_mfgaL6cNOyNYLUY9kNDYCmc5FiMezNaS2cFrXmL1k-23KiUQGWK4mvEfTUXnHnI1MeOhEDiMrJv1_TOJmmIWLAQtBqbltBW9qvncrC98CY6yHdy59ZORMBDhiiAI2Vw5MpjD_bVk/s704/transvision-dok-istimewa-1_waifu2x_art_noise2_scale.png",VENDOR TRANSVIXION
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="VENDOR TRANSVIXION",TVRI
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
-
 
 ############################################################
 >>>>>>>>>>>>>>>    RELIGI / AGAMA    <<<<<<<<<<<<<<<<<<<<<<<
 ############################################################
-iptv.urfan.web.id
+iptv.urfan.web.id raw.githubusercontent.com/hud4156/mytv/refs/heads/main/indovision.m3u
+
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVWViTJaDciZPJUhyzfkC389QzzpI6BSRZWzbXAWjvu2mO2Yut5QdSKBL96Sevzs7gYcweaT2_Mubn2rYdu0YP_qTaBoFqo67BYrZpiQrput8lHcLve-wcGTsuu60EbYPzI8GHMAPcJoXo5JFx86cHG14kilpidggVMTkj9LKtp64D_InpMhyphenhyphen3WVgJ3Ik/s1178/islam_symbol_sign_logo_flat_classical_architectural_shapes_6920396_waifu2x_photo_noise3_scale.png",RELIGI / AGAMA
 
 #EXTINF:-1 group-title="RELIGI / AGAMA"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDEHOME]
@@ -1838,6 +1828,7 @@ https://flv.intechmedia.net/live/ch14.m3u8
 https://s.urfan.id/sunnahtv
 
 ---
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
