@@ -1291,6 +1291,36 @@ https://wow.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/indovision.m3u
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBtpG-Y39vXllv3J2VNEXHhIZKrppkuuVkcRk-VxhylTKgxiU6alw2MNM6gOAXWmUmiET89aT6guUSJy8NQLbJFltGA0U8O_F1hzb-jN0RlkuFDXVvzT4geEFHb1mYF3qqscjQjIdeQZ5xaV4hjfdO19UzxjuAyGnGK_MuqERGNZaNXc1KUgCTR7LpiCI/s594/images_waifu2x_photo_noise3_scale.png",MOVIES TV
 
+
+
+#EXTINF:-1 tvg-id="HBO" group-title="MOVIES TV" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 tvg-id="HBOSig" group-title="MOVIES TV" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 tvg-id="HBOHits" group-title="MOVIES TV" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily" group-title="MOVIES TV" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES TV" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
 http://iptv12k.com:35461/654321/123456/1892
 
