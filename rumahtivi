@@ -1617,23 +1617,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 ######################################################
->>>>>>>>>>>>>>>  MUSIK  <<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>  MUSIK TV  <<<<<<<<<<<<<<<<
 ######################################################
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW37FVwe1ZyVLCH-KX91D36gJHAd4oQxwLOaW4VQ5e9xvWPc_xVIJaEr6-tZOkyxKqb5QAmNYA48JzkwILDkbX3f8i-_1o6ol44-r7LeoHCY2tH9FScSLbHPWy_kMBSTTM3ZBOBbY-mWkjeicdJTI0NzFcDtmwcrFfDBgWO4_NKqNDe6J6jPBXLKj-IhE/s1659/live-music-logo-design-with-neon-hand-drawn-font-free-vector.jpg",MUSIK
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW37FVwe1ZyVLCH-KX91D36gJHAd4oQxwLOaW4VQ5e9xvWPc_xVIJaEr6-tZOkyxKqb5QAmNYA48JzkwILDkbX3f8i-_1o6ol44-r7LeoHCY2tH9FScSLbHPWy_kMBSTTM3ZBOBbY-mWkjeicdJTI0NzFcDtmwcrFfDBgWO4_NKqNDe6J6jPBXLKj-IhE/s1659/live-music-logo-design-with-neon-hand-drawn-font-free-vector.jpg",MUSIK TV
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-m.png",MTV 90s
+#EXTINF:-1 group-title="MUSIK TV" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-m.png",MTV 90s
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live
+#EXTINF:-1 group-title="MUSIK TV" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 https://d1abp075u76pbq.cloudfront.net/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
+#EXTINF:-1 group-title="MUSIK TV" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
