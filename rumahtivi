@@ -1702,7 +1702,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #EXTINF:-1 tvg-id="FMN.id" group-title="MOVIES TV" tvg-logo="https://www.visionplus.id/images/repository/640/640-LOGO-m.png",FMN
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop 02
+https://mantul.biz.id:443/inetwork/gayanet12/1018.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="MOVIES TV",Etv Bioskop 6
+https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
 
 ########################################################################
 >>>>>>>>>>>>>>>>>>>>>>>>   PENGETAHUAN & DOKUMENTER   <<<<<<<<<<<<<<<<<<
